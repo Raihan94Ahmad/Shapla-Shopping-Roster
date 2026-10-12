@@ -1,0 +1,7 @@
+{
+  "generator_capacity_kw": 10,
+  "fuel_budget_litres": 5.0,
+  "shops": [
+    {"id": "shop_1", "kw": -3, "type": "normal", "value_per_slot": [1,1,1,1,1,1,1,1,1,1]}
+  ]
+}

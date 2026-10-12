@@ -1,0 +1,4 @@
+{
+  "status": "invalid_input",
+  "message": "Invalid input: Shop 'shop_1' has non-positive kW."
+}

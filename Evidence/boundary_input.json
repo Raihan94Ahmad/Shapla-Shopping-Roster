@@ -1,0 +1,11 @@
+{
+  "grid_available": [true, false, false, false, false, false, false, false, false, false],
+  "generator_capacity_kw": 10,
+  "fuel_budget_litres": 3.0,
+  "fuel_table": [{"load_kw": 10, "litres_per_hour": 1.5}],
+  "max_consecutive_dark": 1,
+  "shops": [
+    {"id": "pharmacy", "kw": 3, "type": "mandatory", "value_per_slot": [5,5,5,5,5,5,5,5,5,5]},
+    {"id": "heavy_shop", "kw": 8, "type": "normal", "value_per_slot": [9,9,9,9,9,9,9,9,9,9]}
+  ]
+}

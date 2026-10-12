@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "roster": [
+    {
+      "hour": 2,
+      "powered": ["pharmacy", "atm_booth", "tailor_jamal", "mobile_shop", "photocopy", "tea_stall"],
+      "dark": [
+        {"id": "beauty_salon", "reason": "Shop kept dark due to generator capacity limit."},
+        {"id": "grocery_fridge", "reason": "Shop kept dark due to generator capacity limit."},
+        {"id": "electronics", "reason": "Shop kept dark due to generator capacity limit."},
+        {"id": "restaurant", "reason": "Shop kept dark due to generator capacity limit."},
+        {"id": "jewellery", "reason": "Shop kept dark due to generator capacity limit."},
+        {"id": "clothing", "reason": "Shop kept dark due to generator capacity limit."}
+      ]
+    }
+  ],
+  "value_total": 84,
+  "fuel_total_litres": 8.0,
+  "per_shop_dark_hours": {
+    "pharmacy": 0,
+    "atm_booth": 0,
+    "tailor_jamal": 2,
+    "mobile_shop": 2,
+    "photocopy": 2,
+    "tea_stall": 0,
+    "beauty_salon": 2,
+    "grocery_fridge": 2,
+    "electronics": 2,
+    "restaurant": 2,
+    "jewellery": 2,
+    "clothing": 2
+  }
+}
